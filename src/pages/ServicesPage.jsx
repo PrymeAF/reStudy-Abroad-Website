@@ -10,7 +10,7 @@ const ServicesPage = () => {
       title: "Educational Consulting",
       description: "Personalized advice for career-aligned study roadmap, test prep (IELTS/GRE), and post-admission support.",
       features: ["Career-aligned roadmap", "Test preparation", "Post-admission support", "Funding guidance"],
-      price: "From $299",
+      price: "From $50",
       duration: "2-4 weeks",
       popular: false
     },
@@ -19,7 +19,7 @@ const ServicesPage = () => {
       title: "Online Applications",
       description: "Apply for multiple partial/full scholarships with step-by-step error-free submissions.",
       features: ["Multiple applications", "Error-free submissions", "Deadline management", "Document review"],
-      price: "From $199",
+      price: "From $99",
       duration: "1-3 weeks",
       popular: true
     },
@@ -37,7 +37,7 @@ const ServicesPage = () => {
       title: "Passport Processing",
       description: "Navigate passport offices for quick turnaround and expedited applications.",
       features: ["Quick turnaround", "Expedited processing", "Document guidance", "Office navigation"],
-      price: "From $99",
+      price: "From $30",
       duration: "1-2 weeks",
       popular: false
     },
@@ -46,7 +46,7 @@ const ServicesPage = () => {
       title: "Flight Booking",
       description: "Best flight deals to your study destinations with student discounts and flexible options.",
       features: ["Best deals", "Student discounts", "Flexible booking", "Emergency support"],
-      price: "Commission-based",
+      price: "$50",
       duration: "Same day",
       popular: false
     },
