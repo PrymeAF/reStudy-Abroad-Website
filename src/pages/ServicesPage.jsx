@@ -63,22 +63,22 @@ const ServicesPage = () => {
 
   const testimonials = [
     {
-      name: "Kwame Asante",
+      name: "Bridget Asare",
       university: "University of Toronto",
       program: "Computer Science",
       quote: "ReStudy Abroad helped me secure a full scholarship to my dream university. Their guidance was invaluable!",
       rating: 5
     },
     {
-      name: "Akosua Mensah",
-      university: "Harvard Business School",
+      name: "Isaac Oteng",
+      university: "University of Wurzburg",
       program: "MBA",
       quote: "The visa application process was seamless with their expert guidance. Highly recommended!",
       rating: 5
     },
     {
-      name: "Emmanuel Osei",
-      university: "University of Oxford",
+      name: "Manny Obeng",
+      university: "University of Philadelphia",
       program: "Engineering",
       quote: "From application to arrival, they supported me every step of the way. Amazing service!",
       rating: 5
