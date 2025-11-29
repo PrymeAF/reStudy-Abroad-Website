@@ -14,7 +14,7 @@ const BlogPreview = () => {
       author: "Teye Mensah",
       date: "Jan 15, 2025",
       readTime: "8 min read",
-      image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop&crop=center",
+      image: "https://unsplash.com/photos/a-book-on-a-table-LPdaW746WAw",
       featured: true
     },
     {
