@@ -103,7 +103,7 @@ const Hero = () => {
 
               <div className="mt-8 pt-6 border-t border-gray-100">
                 <p className="text-sm text-gray-500 text-center">
-                  Next intake: <span className="font-semibold text-gray-700">September 2025</span>
+                  Next intake: <span className="font-semibold text-gray-700">January 2026</span>
                 </p>
               </div>
             </div>
