@@ -14,7 +14,7 @@ const BlogPreview = () => {
       author: "Teye Mensah",
       date: "Jan 15, 2025",
       readTime: "8 min read",
-      image: "https://unsplash.com/photos/a-book-on-a-table-LPdaW746WAw",
+      image: "https://images.unsplash.com/photo-1655722725332-9925c96dd627?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: true
     },
     {
@@ -25,7 +25,7 @@ const BlogPreview = () => {
       author: "Faustinus Ang",
       date: "Jan 12, 2025",
       readTime: "6 min read",
-      image: "https://unsplash.com/photos/boy-in-blue-and-white-long-sleeve-shirt-sitting-on-brown-wooden-chair-kGchvuzivOk",
+      image: "https://images.unsplash.com/photo-1588412770640-ad1892f1c3e5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: false
     },
     {
@@ -36,7 +36,7 @@ const BlogPreview = () => {
       author: "Dr. Kwame Osei",
       date: "Jan 10, 2025",
       readTime: "5 min read",
-      image: "https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8",
+      image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: false
     },
     {
