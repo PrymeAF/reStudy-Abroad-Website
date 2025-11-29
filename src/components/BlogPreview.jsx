@@ -25,7 +25,7 @@ const BlogPreview = () => {
       author: "Faustinus Ang",
       date: "Jan 12, 2025",
       readTime: "6 min read",
-      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop&crop=center",
+      image: "https://unsplash.com/photos/boy-in-blue-and-white-long-sleeve-shirt-sitting-on-brown-wooden-chair-kGchvuzivOk",
       featured: false
     },
     {
@@ -36,7 +36,7 @@ const BlogPreview = () => {
       author: "Dr. Kwame Osei",
       date: "Jan 10, 2025",
       readTime: "5 min read",
-      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop&crop=center",
+      image: "https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8",
       featured: false
     },
     {
@@ -47,7 +47,7 @@ const BlogPreview = () => {
       author: "Teye Mensah",
       date: "Jan 8, 2025",
       readTime: "7 min read",
-      image: "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=400&h=250&fit=crop&crop=center",
+      image: "https://unsplash.com/photos/man-holding-glass-door-jJFrkJP_-RA",
       featured: false
     }
   ]
