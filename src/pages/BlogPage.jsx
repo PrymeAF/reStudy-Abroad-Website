@@ -25,10 +25,10 @@ const BlogPage = () => {
       title: "Complete Guide to UK Student Visa Requirements 2025",
       excerpt: "Everything you need to know about applying for a UK student visa, including new requirements, processing times, and essential documents.",
       category: "Visa Guide",
-      author: "Sarah Johnson",
+      author: "Teye Menssah",
       date: "Jan 15, 2025",
       readTime: "8 min read",
-      image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.unsplash.com/photo-1655722725332-9925c96dd627?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: true,
       tags: ["UK", "Visa", "Student", "2025"]
     },
@@ -37,10 +37,10 @@ const BlogPage = () => {
       title: "Top 10 Scholarships for African Students in 2025",
       excerpt: "Discover the best scholarship opportunities available for African students looking to study abroad, including application deadlines and requirements.",
       category: "Scholarships",
-      author: "Michael Asante",
+      author: "Faustinus Ang",
       date: "Jan 12, 2025",
       readTime: "6 min read",
-      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.unsplash.com/photo-1588412770640-ad1892f1c3e5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: false,
       tags: ["Scholarships", "Africa", "Funding"]
     },
@@ -52,7 +52,7 @@ const BlogPage = () => {
       author: "Dr. Kwame Osei",
       date: "Jan 10, 2025",
       readTime: "5 min read",
-      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: false,
       tags: ["IELTS", "TOEFL", "English", "Test Prep"]
     },
@@ -61,10 +61,10 @@ const BlogPage = () => {
       title: "Success Story: From Accra to Harvard Business School",
       excerpt: "Read how Akosua secured a full scholarship to Harvard Business School and her tips for success in the application process.",
       category: "Success Stories",
-      author: "Akosua Mensah",
+      author: "Teye Mensah",
       date: "Jan 8, 2025",
       readTime: "7 min read",
-      image: "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.unsplash.com/photo-1507537509458-b8312d35a233?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       featured: false,
       tags: ["Harvard", "MBA", "Success Story", "Ghana"]
     },
@@ -76,7 +76,7 @@ const BlogPage = () => {
       author: "Sarah Johnson",
       date: "Jan 5, 2025",
       readTime: "10 min read",
-      image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.pexels.com/photos/3059749/pexels-photo-3059749.jpeg",
       featured: false,
       tags: ["Personal Statement", "Applications", "Writing"]
     },
@@ -88,7 +88,7 @@ const BlogPage = () => {
       author: "Michael Asante",
       date: "Jan 3, 2025",
       readTime: "12 min read",
-      image: "https://images.unsplash.com/photo-1503614472-8c93d56cd601?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.pexels.com/photos/7144408/pexels-photo-7144408.jpeg",
       featured: false,
       tags: ["Canada", "Study Abroad", "Universities"]
     },
@@ -100,7 +100,7 @@ const BlogPage = () => {
       author: "Dr. Kwame Osei",
       date: "Dec 28, 2024",
       readTime: "6 min read",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.pexels.com/photos/1181712/pexels-photo-1181712.jpeg",
       featured: false,
       tags: ["Interview", "Preparation", "Tips"]
     },
@@ -112,7 +112,7 @@ const BlogPage = () => {
       author: "Sarah Johnson",
       date: "Dec 25, 2024",
       readTime: "9 min read",
-      image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=250&fit=crop&crop=center",
+      image: "https://images.pexels.com/photos/5922543/pexels-photo-5922543.jpeg",
       featured: false,
       tags: ["Student Loans", "Financing", "International"]
     }
