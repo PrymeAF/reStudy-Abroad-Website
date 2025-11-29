@@ -43,9 +43,9 @@ const ContactPage = () => {
       icon: Phone,
       title: "Phone Numbers",
       details: [
-        "Accra: +233 XX XXX XXXX",
-        "Kumasi: +233 XX XXX XXXX",
-        "WhatsApp: +233 XX XXX XXXX"
+        "Accra: +233 54 542 2515",
+        "Kumasi: +233 20 854 4704",
+        "WhatsApp: +233 54 542 2515"
       ]
     },
     {
